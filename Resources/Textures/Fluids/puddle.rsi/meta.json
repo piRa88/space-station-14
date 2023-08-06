@@ -1,11 +1,10 @@
 {
-    "version": 1,
+    "copyright": "Made by Alekshhh on github",
+    "license": "CC-BY-SA-3.0",
     "size": {
         "x": 32,
         "y": 32
     },
-    "license": "CC-BY-SA-3.0",
-    "copyright": "Made by Alekshhh on github",
     "states": [
         {
             "name": "splata"
@@ -60,6 +59,10 @@
         },
         {
             "name": "splat15"
+        },
+        {
+            "name": "splat16"
         }
-    ]
+    ],
+    "version": 1
 }
